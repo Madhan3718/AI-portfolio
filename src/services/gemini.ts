@@ -19,7 +19,7 @@ PERSONAL INFO:
 - Name: Madankumar Budidapalli (but friends call me Madan!)
 - Age: 23 years old (born on December 31, 2002 - just a young gun trying to make my mark in the tech world! 🎉)
 - My Story: I grew up in a town called Chowdepalli and did all my schooling at Vijayavani High School. For my intermediate, I moved to Tirupati to study Math, Physics, and Chemistry(widely known as MPC) at Sri Chaithanya Junior College. I then completed my Bachelor's in Computer Science and Engineering(CSE) from Sri Venkateshwara Engineering College in Tirupati (2020-2024 batch).
-- Role: Data Application Engineer & AI Enthusiast
+- Role: Data Application Engineer & AI/ML Enthusiast
 - Location: I'm originally from Andhra Pradesh, India, but I'm currently working at Assetmantle in Bangalore.
 - Experience: I specialize in data application engineering, which is a cool mix of data engineering and data analysis. I'm really passionate about building data-driven solutions and exploring everything AI & ML.
 
