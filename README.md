@@ -18,7 +18,7 @@ Instead of making you scroll endlessly, my portfolio **adapts to you**.
 
 ## 🚀 Live Demo
 
-👉 **[https://madan-dev.netlify.app/](https://madan-dev.netlify.app/)**  
+👉 **[https://madan-dev.netlify.app/](https://madhan-dev.netlify.app/)**  
 *What will you ask first?*
 
 ---
